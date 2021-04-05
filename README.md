@@ -38,4 +38,4 @@ You can replace `{env.GODADDY_TOKEN}` with the actual auth token if you prefer t
 
 ## Authenticating
 
-See [the associated README in the libdns package](https://github.com/caoyongzheng/libdns-godaddy) for important information about credentials.
+See [the associated README in the libdns package](https://github.com/Secure-T-Team/libdns-godaddy) for important information about credentials.
