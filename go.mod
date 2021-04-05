@@ -1,8 +1,8 @@
-module github.com/caoyongzheng/caddy-dns-godaddy
+module github.com/Secure-T-Team/libdns-godaddy-caddy
 
-go 1.14
+go 1.16
 
 require (
-	github.com/caddyserver/caddy/v2 v2.1.1
-	github.com/caoyongzheng/libdns-godaddy v0.0.0-20200825162648-51ac38596fbc
+	github.com/Secure-T-Team/libdns-godaddy v0.0.0-20210405131708-7bc1720f07fd
+	github.com/caddyserver/caddy/v2 v2.3.0
 )
